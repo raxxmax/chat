@@ -146,13 +146,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## 👥 Author
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- Your Name - [@yourusername](https://github.com/yourusername)
+- Your Name - [@raxxmax](https://github.com/raxxmax)
 
 ## 🙏 Acknowledgments
 
@@ -162,7 +158,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or support, please reach out to: your.email@example.com
+For questions or support, please reach out to: raahulshaarmaa28@gmail.com
 
 ---
 
