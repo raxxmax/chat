@@ -45,6 +45,10 @@ android {
 dependencies {
     implementation(libs.androidx.foundation)
     implementation(libs.androidx.espresso.core)
+    implementation(libs.google.firebase.auth)
+    implementation(libs.androidx.credentials)
+    implementation(libs.androidx.credentials.play.services.auth)
+    implementation(libs.googleid)
     kapt("com.google.dagger:hilt-compiler:2.48")
     // Core Android dependencies
     implementation(libs.androidx.core.ktx)
