@@ -1,5 +1,6 @@
 package com.example.chat.feature.auth.signin
 
+
 import android.R.attr.singleLine
 import android.widget.Toast
 import androidx.compose.foundation.Image
@@ -179,6 +180,7 @@ fun SignInScreen(navController: NavController) {
         }
     }
 }
+
 
 @Preview(showBackground = true)
 @Composable

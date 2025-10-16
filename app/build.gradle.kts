@@ -7,6 +7,7 @@ plugins {
     kotlin("kapt")
 }
 
+
 android {
     namespace = "com.example.chat"
     compileSdk = 36

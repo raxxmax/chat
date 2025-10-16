@@ -1,8 +1,8 @@
 {
   "project_info": {
     "project_number": "756454303120",
-    "project_id": "chat-97bec",
-    "storage_bucket": "chat-97bec.firebasestorage.app"
+    "project_id": "chat-c",
+    "storage_bucket": "chat-.firebasestorage.app"
   },
   "client": [
     {
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDBn381jbsWpfrxGlB33slA3g4wjG1ScGg"
+          "current_key": "A"
         }
       ],
       "services": {

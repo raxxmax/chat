@@ -11,8 +11,14 @@ import java.util.UUID
 
 class SupabaseStorageUtil(val context : Context) {
     val supabase = createSupabaseClient(
+<<<<<<< HEAD
         "https://yithwehtntxbgnvaoxdl.supabase.co",
 "sb_secret_0MPuC3D59FjGPqNqVCCjGA_SPsLPcxd"
+=======
+        " ",
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlImV4cCI6MjA3NDQ1MDc3M30.DknMDoKRijSRvcdtW-RxtsuYeWI6_pqmZ66LzDf2E2A"
+
+>>>>>>> 45647e0b658fed3f269cae7584d1219c16042a66
     ) {
         install(Storage)
     }
