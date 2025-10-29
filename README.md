@@ -31,7 +31,7 @@ A modern Android chat application built with Jetpack Compose, Firebase Authentic
 | Splash Screen | Sign In Screen | Sign Up Screen | Home Screen | Chat Interface |
 |:--------------:|:--------------:|:--------------:|:------------:|:---------------:|
 ![chat](https://github.com/user-attachments/assets/0b6a2037-d692-4cba-8622-f282b8ed6f28) | ![chat](https://github.com/user-attachments/assets/2c035e3a-51ae-4684-ab43-1572f659c9bf) | ![chat](https://github.com/user-attachments/assets/31f85cc3-d3d7-463e-99dc-4a17c840c533) | ![chat](https://github.com/user-attachments/assets/53f46a50-71d2-407c-8989-9746e536cdc9)
- | ![chat](https://github.com/user-attachments/assets/52fc6a69-7395-408f-a938-e5d0b708ff3a) |
+ | ![chat](https://github.com/user-attachments/assets/52fc6a69-7395-408f-a938-e5d0b708ff3a) 
 
 
 ## 🚀 Getting Started
